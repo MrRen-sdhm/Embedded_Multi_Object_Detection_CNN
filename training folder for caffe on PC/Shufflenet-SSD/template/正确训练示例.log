@@ -1,0 +1,143 @@
+I0423 16:26:09.810526 22377 caffe.cpp:251] Starting Optimization
+I0423 16:26:09.810544 22377 solver.cpp:294] Solving ShuffleNet-SSD
+I0423 16:26:09.810549 22377 solver.cpp:295] Learning Rate Policy: multistep
+I0423 16:26:10.455077 22377 solver.cpp:243] Iteration 0, loss = 66.4967
+I0423 16:26:10.455123 22377 solver.cpp:259]     Train net output #0: mbox_loss = 66.4967 (* 1 = 66.4967 loss)
+I0423 16:26:10.455147 22377 sgd_solver.cpp:138] Iteration 0, lr = 0.0005
+I0423 16:26:37.913609 22377 solver.cpp:243] Iteration 50, loss = 13.9499
+I0423 16:26:37.913661 22377 solver.cpp:259]     Train net output #0: mbox_loss = 8.13451 (* 1 = 8.13451 loss)
+I0423 16:26:37.913682 22377 sgd_solver.cpp:138] Iteration 50, lr = 0.0005
+I0423 16:27:05.607295 22377 solver.cpp:243] Iteration 100, loss = 11.7546
+I0423 16:27:05.607514 22377 solver.cpp:259]     Train net output #0: mbox_loss = 13.0869 (* 1 = 13.0869 loss)
+I0423 16:27:05.607527 22377 sgd_solver.cpp:138] Iteration 100, lr = 0.0005
+I0423 16:27:33.282788 22377 solver.cpp:243] Iteration 150, loss = 10.5292
+I0423 16:27:33.282822 22377 solver.cpp:259]     Train net output #0: mbox_loss = 9.68423 (* 1 = 9.68423 loss)
+I0423 16:27:33.282831 22377 sgd_solver.cpp:138] Iteration 150, lr = 0.0005
+I0423 16:28:00.945931 22377 solver.cpp:243] Iteration 200, loss = 10.4185
+I0423 16:28:00.946034 22377 solver.cpp:259]     Train net output #0: mbox_loss = 9.93515 (* 1 = 9.93515 loss)
+I0423 16:28:00.946046 22377 sgd_solver.cpp:138] Iteration 200, lr = 0.0005
+I0423 16:28:28.628412 22377 solver.cpp:243] Iteration 250, loss = 11.1725
+I0423 16:28:28.628449 22377 solver.cpp:259]     Train net output #0: mbox_loss = 8.94374 (* 1 = 8.94374 loss)
+I0423 16:28:28.628459 22377 sgd_solver.cpp:138] Iteration 250, lr = 0.0005
+I0423 16:28:56.388067 22377 solver.cpp:243] Iteration 300, loss = 8.58083
+I0423 16:28:56.388178 22377 solver.cpp:259]     Train net output #0: mbox_loss = 8.3677 (* 1 = 8.3677 loss)
+I0423 16:28:56.388190 22377 sgd_solver.cpp:138] Iteration 300, lr = 0.0005
+I0423 16:29:24.508190 22377 solver.cpp:243] Iteration 350, loss = 8.30548
+I0423 16:29:24.508234 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.44981 (* 1 = 6.44981 loss)
+I0423 16:29:24.508244 22377 sgd_solver.cpp:138] Iteration 350, lr = 0.0005
+I0423 16:29:52.653656 22377 solver.cpp:243] Iteration 400, loss = 9.16034
+I0423 16:29:52.653758 22377 solver.cpp:259]     Train net output #0: mbox_loss = 8.35352 (* 1 = 8.35352 loss)
+I0423 16:29:52.653769 22377 sgd_solver.cpp:138] Iteration 400, lr = 0.0005
+I0423 16:30:20.756745 22377 solver.cpp:243] Iteration 450, loss = 7.92719
+I0423 16:30:20.756785 22377 solver.cpp:259]     Train net output #0: mbox_loss = 7.85811 (* 1 = 7.85811 loss)
+I0423 16:30:20.756795 22377 sgd_solver.cpp:138] Iteration 450, lr = 0.0005
+I0423 16:30:48.984905 22377 solver.cpp:243] Iteration 500, loss = 7.65987
+I0423 16:30:48.984998 22377 solver.cpp:259]     Train net output #0: mbox_loss = 7.32489 (* 1 = 7.32489 loss)
+I0423 16:30:48.985011 22377 sgd_solver.cpp:138] Iteration 500, lr = 0.0005
+I0423 16:31:17.339545 22377 solver.cpp:243] Iteration 550, loss = 7.91796
+I0423 16:31:17.339583 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.87665 (* 1 = 5.87665 loss)
+I0423 16:31:17.339593 22377 sgd_solver.cpp:138] Iteration 550, lr = 0.0005
+I0423 16:31:45.600224 22377 solver.cpp:243] Iteration 600, loss = 7.44206
+I0423 16:31:45.600349 22377 solver.cpp:259]     Train net output #0: mbox_loss = 8.19555 (* 1 = 8.19555 loss)
+I0423 16:31:45.600371 22377 sgd_solver.cpp:138] Iteration 600, lr = 0.0005
+I0423 16:32:13.989311 22377 solver.cpp:243] Iteration 650, loss = 6.31502
+I0423 16:32:13.989353 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.04625 (* 1 = 5.04625 loss)
+I0423 16:32:13.989363 22377 sgd_solver.cpp:138] Iteration 650, lr = 0.0005
+I0423 16:32:42.750533 22377 solver.cpp:243] Iteration 700, loss = 7.19054
+I0423 16:32:42.750643 22377 solver.cpp:259]     Train net output #0: mbox_loss = 7.43224 (* 1 = 7.43224 loss)
+I0423 16:32:42.750656 22377 sgd_solver.cpp:138] Iteration 700, lr = 0.0005
+I0423 16:33:11.469818 22377 solver.cpp:243] Iteration 750, loss = 6.52788
+I0423 16:33:11.469857 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.69895 (* 1 = 6.69895 loss)
+I0423 16:33:11.469867 22377 sgd_solver.cpp:138] Iteration 750, lr = 0.0005
+I0423 16:33:40.172081 22377 solver.cpp:243] Iteration 800, loss = 6.09342
+I0423 16:33:40.172189 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.6308 (* 1 = 6.6308 loss)
+I0423 16:33:40.172201 22377 sgd_solver.cpp:138] Iteration 800, lr = 0.0005
+I0423 16:34:08.863875 22377 solver.cpp:243] Iteration 850, loss = 6.52379
+I0423 16:34:08.863914 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.00728 (* 1 = 6.00728 loss)
+I0423 16:34:08.863932 22377 sgd_solver.cpp:138] Iteration 850, lr = 0.0005
+I0423 16:34:37.569768 22377 solver.cpp:243] Iteration 900, loss = 7.1632
+I0423 16:34:37.569910 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.86396 (* 1 = 6.86396 loss)
+I0423 16:34:37.569922 22377 sgd_solver.cpp:138] Iteration 900, lr = 0.0005
+I0423 16:35:06.281024 22377 solver.cpp:243] Iteration 950, loss = 6.56002
+I0423 16:35:06.281064 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.59716 (* 1 = 5.59716 loss)
+I0423 16:35:06.281071 22377 sgd_solver.cpp:138] Iteration 950, lr = 0.0005
+I0423 16:35:34.670377 22377 solver.cpp:596] Snapshotting to binary proto file snapshot/ShuffleNetSSD_iter_1000.caffemodel
+I0423 16:35:34.810359 22377 sgd_solver.cpp:307] Snapshotting solver state to binary proto file snapshot/ShuffleNetSSD_iter_1000.solverstate
+I0423 16:35:34.858337 22377 solver.cpp:433] Iteration 1000, Testing net (#0)
+I0423 16:35:34.872195 22377 net.cpp:693] Ignoring source layer mbox_loss
+I0423 16:36:24.352067 22377 solver.cpp:546]     Test net output #0: detection_eval = 0.0376189
+I0423 16:36:24.715251 22377 solver.cpp:243] Iteration 1000, loss = 6.96256
+I0423 16:36:24.715293 22377 solver.cpp:259]     Train net output #0: mbox_loss = 8.29962 (* 1 = 8.29962 loss)
+I0423 16:36:24.715304 22377 sgd_solver.cpp:138] Iteration 1000, lr = 0.0005
+I0423 16:36:53.365950 22377 solver.cpp:243] Iteration 1050, loss = 6.66237
+I0423 16:36:53.365990 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.73461 (* 1 = 6.73461 loss)
+I0423 16:36:53.365999 22377 sgd_solver.cpp:138] Iteration 1050, lr = 0.0005
+I0423 16:37:22.025965 22377 solver.cpp:243] Iteration 1100, loss = 7.62062
+I0423 16:37:22.026072 22377 solver.cpp:259]     Train net output #0: mbox_loss = 7.04638 (* 1 = 7.04638 loss)
+I0423 16:37:22.026088 22377 sgd_solver.cpp:138] Iteration 1100, lr = 0.0005
+I0423 16:37:50.728319 22377 solver.cpp:243] Iteration 1150, loss = 6.71538
+I0423 16:37:50.728358 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.16978 (* 1 = 6.16978 loss)
+I0423 16:37:50.728368 22377 sgd_solver.cpp:138] Iteration 1150, lr = 0.0005
+I0423 16:38:19.445588 22377 solver.cpp:243] Iteration 1200, loss = 5.97616
+I0423 16:38:19.445693 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.74107 (* 1 = 5.74107 loss)
+I0423 16:38:19.445708 22377 sgd_solver.cpp:138] Iteration 1200, lr = 0.0005
+I0423 16:38:48.140097 22377 solver.cpp:243] Iteration 1250, loss = 6.42412
+I0423 16:38:48.140137 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.33045 (* 1 = 6.33045 loss)
+I0423 16:38:48.140148 22377 sgd_solver.cpp:138] Iteration 1250, lr = 0.0005
+I0423 16:39:16.856865 22377 solver.cpp:243] Iteration 1300, loss = 5.6293
+I0423 16:39:16.856966 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.10361 (* 1 = 6.10361 loss)
+I0423 16:39:16.856976 22377 sgd_solver.cpp:138] Iteration 1300, lr = 0.0005
+I0423 16:39:45.521894 22377 solver.cpp:243] Iteration 1350, loss = 6.16747
+I0423 16:39:45.521934 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.75283 (* 1 = 5.75283 loss)
+I0423 16:39:45.521944 22377 sgd_solver.cpp:138] Iteration 1350, lr = 0.0005
+I0423 16:40:14.393141 22377 solver.cpp:243] Iteration 1400, loss = 6.05211
+I0423 16:40:14.393249 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.27881 (* 1 = 5.27881 loss)
+I0423 16:40:14.393260 22377 sgd_solver.cpp:138] Iteration 1400, lr = 0.0005
+I0423 16:40:43.310277 22377 solver.cpp:243] Iteration 1450, loss = 6.32539
+I0423 16:40:43.310317 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.48353 (* 1 = 6.48353 loss)
+I0423 16:40:43.310326 22377 sgd_solver.cpp:138] Iteration 1450, lr = 0.0005
+I0423 16:41:12.217039 22377 solver.cpp:243] Iteration 1500, loss = 6.20911
+I0423 16:41:12.217150 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.97331 (* 1 = 5.97331 loss)
+I0423 16:41:12.217164 22377 sgd_solver.cpp:138] Iteration 1500, lr = 0.0005
+I0423 16:41:41.182968 22377 solver.cpp:243] Iteration 1550, loss = 6.30889
+I0423 16:41:41.183032 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.676 (* 1 = 6.676 loss)
+I0423 16:41:41.183043 22377 sgd_solver.cpp:138] Iteration 1550, lr = 0.0005
+I0423 16:42:10.119601 22377 solver.cpp:243] Iteration 1600, loss = 5.57027
+I0423 16:42:10.119755 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.5702 (* 1 = 5.5702 loss)
+I0423 16:42:10.119772 22377 sgd_solver.cpp:138] Iteration 1600, lr = 0.0005
+I0423 16:42:39.030807 22377 solver.cpp:243] Iteration 1650, loss = 5.72083
+I0423 16:42:39.030845 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.00667 (* 1 = 5.00667 loss)
+I0423 16:42:39.030856 22377 sgd_solver.cpp:138] Iteration 1650, lr = 0.0005
+I0423 16:43:07.959980 22377 solver.cpp:243] Iteration 1700, loss = 5.67651
+I0423 16:43:07.960088 22377 solver.cpp:259]     Train net output #0: mbox_loss = 4.90403 (* 1 = 4.90403 loss)
+I0423 16:43:07.960101 22377 sgd_solver.cpp:138] Iteration 1700, lr = 0.0005
+I0423 16:43:36.893793 22377 solver.cpp:243] Iteration 1750, loss = 6.60334
+I0423 16:43:36.893831 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.72295 (* 1 = 5.72295 loss)
+I0423 16:43:36.893841 22377 sgd_solver.cpp:138] Iteration 1750, lr = 0.0005
+I0423 16:44:05.881546 22377 solver.cpp:243] Iteration 1800, loss = 5.25827
+I0423 16:44:05.881639 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.68507 (* 1 = 5.68507 loss)
+I0423 16:44:05.881654 22377 sgd_solver.cpp:138] Iteration 1800, lr = 0.0005
+I0423 16:44:34.819766 22377 solver.cpp:243] Iteration 1850, loss = 5.86632
+I0423 16:44:34.819811 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.29709 (* 1 = 5.29709 loss)
+I0423 16:44:34.819820 22377 sgd_solver.cpp:138] Iteration 1850, lr = 0.0005
+I0423 16:45:03.762727 22377 solver.cpp:243] Iteration 1900, loss = 5.56324
+I0423 16:45:03.762840 22377 solver.cpp:259]     Train net output #0: mbox_loss = 6.37205 (* 1 = 6.37205 loss)
+I0423 16:45:03.762853 22377 sgd_solver.cpp:138] Iteration 1900, lr = 0.0005
+I0423 16:45:32.692256 22377 solver.cpp:243] Iteration 1950, loss = 5.99533
+I0423 16:45:32.692298 22377 solver.cpp:259]     Train net output #0: mbox_loss = 7.8104 (* 1 = 7.8104 loss)
+I0423 16:45:32.692308 22377 sgd_solver.cpp:138] Iteration 1950, lr = 0.0005
+I0423 16:46:01.265337 22377 solver.cpp:596] Snapshotting to binary proto file snapshot/ShuffleNetSSD_iter_2000.caffemodel
+I0423 16:46:01.382712 22377 sgd_solver.cpp:307] Snapshotting solver state to binary proto file snapshot/ShuffleNetSSD_iter_2000.solverstate
+I0423 16:46:01.430246 22377 solver.cpp:433] Iteration 2000, Testing net (#0)
+I0423 16:46:01.430465 22377 net.cpp:693] Ignoring source layer mbox_loss
+I0423 16:46:51.025471 22377 solver.cpp:546]     Test net output #0: detection_eval = 0.110612
+I0423 16:46:51.391027 22377 solver.cpp:243] Iteration 2000, loss = 5.37046
+I0423 16:46:51.391064 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.04431 (* 1 = 5.04431 loss)
+I0423 16:46:51.391075 22377 sgd_solver.cpp:138] Iteration 2000, lr = 0.0005
+I0423 16:47:20.312413 22377 solver.cpp:243] Iteration 2050, loss = 5.63721
+I0423 16:47:20.312458 22377 solver.cpp:259]     Train net output #0: mbox_loss = 5.44872 (* 1 = 5.44872 loss)
+I0423 16:47:20.312485 22377 sgd_solver.cpp:138] Iteration 2050, lr = 0.0005
+I0423 16:47:45.412792 22377 solver.cpp:596] Snapshotting to binary proto file snapshot/ShuffleNetSSD_iter_2094.caffemodel
+I0423 16:47:45.515866 22377 sgd_solver.cpp:307] Snapshotting solver state to binary proto file snapshot/ShuffleNetSSD_iter_2094.solverstate
+I0423 16:47:45.556871 22377 solver.cpp:316] Optimization stopped early.
+I0423 16:47:45.556896 22377 caffe.cpp:254] Optimization Done.

@@ -1,0 +1,3 @@
+[INFO] elapsed time: 21.94
+[INFO] loop fps: 27.35
+[INFO] forward fps: 32.39

@@ -1,0 +1,5 @@
+Log file created at: 2018/04/23 16:26:09
+Running on machine: sdhm-X450JF
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0423 16:26:09.757418 22377 upgrade_proto.cpp:72] Note that future Caffe releases will only support input layers and not input fields.
+W0423 16:26:09.807555 22377 upgrade_proto.cpp:72] Note that future Caffe releases will only support input layers and not input fields.

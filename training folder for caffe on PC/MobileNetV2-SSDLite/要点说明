@@ -1,0 +1,25 @@
+1、训练时batchsize不能太小，若显存不够可以通过设置slover_train中iter_size: 参数来弥补，保证iter_size×batchsize>=4。
+2、需要设置scale层的学习率为
+param {
+    lr_mult: 0.1
+    decay_mult: 0.0
+  }
+param {
+lr_mult: 0.2
+decay_mult: 0.0
+}
+
+训练出错：
+
+batchsize设置为2，iter_size设置为1，
+scale层学习率设置如下：
+param {
+    lr_mult: 0.1
+    decay_mult: 0.0
+  }
+param {
+lr_mult: 0.2
+decay_mult: 0.0
+}
+用以上配置进行训练时出现了未知错误，loss下降非常慢，并且出现了准确率上升后急速下降的现象。
+将iter_size设置为2，scale学习率降一倍解决问题
