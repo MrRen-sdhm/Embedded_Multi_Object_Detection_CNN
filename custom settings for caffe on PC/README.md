@@ -1,1 +1,1 @@
-以上文件用于生成lmdb数据集文件
+# Those scripts used to create lmdb database by caffe.
